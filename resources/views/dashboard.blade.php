@@ -8,42 +8,6 @@
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-
-                {{-- <div class="card w-96 bg-base-100 shadow-xl ">
-                    <a alt = "un">
-                        <figure class="px-10 pt-10">
-                            <img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"
-                                class="rounded-xl" />
-                        </figure>
-                        <div class="card-body items-center text-center">
-                            <div class="card-actions">
-                                <button class="btn btn-primary">Buy Now</button>
-                            </div>
-                        </div>
-                    </a>
-                    <a alt = "deux">
-                        <figure class="px-10 pt-10">
-                            <img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"
-                                class="rounded-xl" />
-                        </figure>
-                        <div class="card-body items-center text-center">
-                            <div class="card-actions">
-                                <button class="btn btn-primary">Buy Now</button>
-                            </div>
-                        </div>
-                    </a>
-                    <a alt = "trois">
-                        <figure class="px-10 pt-10">
-                            <img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"
-                                class="rounded-xl" />
-                        </figure>
-                        <div class="card-body items-center text-center">
-                            <div class="card-actions">
-                                <button class="btn btn-primary">Buy Now</button>
-                            </div>
-                        </div>
-                    </a>
-                </div> --}}
                 
                 <div class="container text-center">
                     <p>Le laboratoire Galaxy Swiss Bourdin (GSB) est issu de la fusion entre le géant américain Galaxy (spécialisé dans le secteur des 
